@@ -1,8 +1,13 @@
 # teb_local_planner
 用于无ROS的TEB算法，并使用c++ matplotlibcpp库做了图形化显示
 
+＃ 参考
 原始的代码和相关论文请参考原始的teb工程
 https://github.com/rst-tu-dortmund/teb_local_planner
+
+和非ROS版本的teb工程
+
+https://github.com/linyi Cheng1/teb_local_planner
 
 # 调用流程
 
